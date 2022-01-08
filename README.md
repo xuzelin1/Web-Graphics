@@ -2,6 +2,8 @@
 
 ## 基础知识
 [贝塞尔曲线的入门](https://github.com/xuzelin1/Web-Graphics/issues/1#issue-1094151968)
+TODO
+图形学的数学基础 - 线代相关
 
 
 ## canvas 相关
