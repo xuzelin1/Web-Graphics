@@ -3,8 +3,7 @@
 ## 基础知识
 [贝塞尔曲线的入门](https://github.com/xuzelin1/Web-Graphics/issues/1#issue-1094151968)
 
-TODO
-- 图形学的数学基础 - 线代相关
+[线代相关 - 向量和矩阵的基本](https://github.com/xuzelin1/Web-Graphics/issues/3)
 
 ## OpenGL/WebGL/WebGpu
 
