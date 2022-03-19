@@ -8,6 +8,7 @@
 ## OpenGL/WebGL/WebGpu
 
 - GLSL 的基础
+- 矩阵变换
 
 ## canvas 相关
 [拖拽元件展示距离和自动对齐的一种实现方式](https://github.com/xuzelin1/Web-Graphics/issues/2#issue-1094163343)
